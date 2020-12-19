@@ -1,1 +1,2 @@
-# mango-yum
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
